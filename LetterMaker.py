@@ -30,7 +30,7 @@ Thank you for your consideration.
 Attached you will find my CV and recommendation letters.
 
 Yours sincerely,
-Juan Felix Pangestu
+Felix Lau Pangestu
 """
     return output
 
